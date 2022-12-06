@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyabrata0611 
+- 👋 Hi, I’m PRIYABRATA
 - 🌱 I’m currently learning fullstackweb development
 - 📫 How to reach me email-priyabratabehera0611@gmail.com
 
